@@ -30,9 +30,9 @@ public class Test2
 
     /**
      * Rigourous Test :-)
-     */
-    public void testApp()
-    {
-        assertTrue( new App2().multiplica(4,2) == 8 );
-    }
+//     */
+//    public void testApp()
+//    {
+//        assertTrue( new App2().multiplica(4,2) == 8 );
+//    }
 }
